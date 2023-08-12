@@ -112,7 +112,8 @@
 /* box-4 * && * bob-5 */
 
 span{
-    font-size: 0.7 rem;  
+     font-size: 0.85rem;
+    margin-left: 15px;  
 }
 
 .nav-second{
